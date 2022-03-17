@@ -32,8 +32,8 @@ const FeatureList = [
         be extended while reusing the same header and footer.
       </>
     ),
-  },
-]; */
+  }, */
+]; 
 
 function Feature({Svg, title, description}) {
   return (
