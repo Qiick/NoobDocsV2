@@ -67,32 +67,32 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Categorieën',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Minecraft',
+                to: '/docs/Minecraft',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Website',
+                href: 'https://noobhosting.net',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Minecraft Panel',
+                href: 'https://panel.noobhosting.net',
               },
-              {
+              /** {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
-              },
+              }, */
             ],
           },
-          {
+          /**{
             title: 'More',
             items: [
               {
@@ -102,11 +102,11 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
-              },
+              }, */
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} NoobHosting. Gemaakt met Docusaurus. En beheerd door Brian / Qiick`,
       },
       prism: {
         theme: lightCodeTheme,
