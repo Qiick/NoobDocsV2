@@ -71,7 +71,7 @@ const config = {
             items: [
               {
                 label: 'Minecraft',
-                to: '/docs/Minecraft',
+                to: '/docs/intro',
               },
             ],
           },
