@@ -102,8 +102,8 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
-              }, */
-            ],
+              }, 
+            ],*/
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} NoobHosting. Gemaakt met Docusaurus. En beheerd door Brian / Qiick`,
